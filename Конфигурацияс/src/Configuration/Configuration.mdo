@@ -39,4 +39,5 @@
     <languageCode>ru</languageCode>
   </languages>
   <dataProcessors>DataProcessor.Обработка</dataProcessors>
+  <dataProcessors>DataProcessor.Обработка1</dataProcessors>
 </mdclass:Configuration>
