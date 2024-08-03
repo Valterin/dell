@@ -9,6 +9,7 @@
     <value>Внешняя обработка</value>
   </synonym>
   <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="cd96e97e-cec4-463e-8527-497e2670841c"/>
+  <defaultForm>ExternalDataProcessor.ВнешняяОбработка.Form.Форма</defaultForm>
   <attributes uuid="30332f14-f9f7-4d05-be14-cae43681dc2d">
     <name>Реквизит</name>
     <synonym>
@@ -24,4 +25,13 @@
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </attributes>
+  <forms uuid="3162fdb6-f64c-4e3b-b671-8f9e9db22726">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
 </mdclass:ExternalDataProcessor>
