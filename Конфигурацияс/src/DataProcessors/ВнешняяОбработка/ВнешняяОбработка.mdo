@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="e49bfa10-85d7-4ff5-96b6-220b0c4b8d81">
+  <producedTypes>
+    <objectType typeId="94c31a90-5280-4bb7-81bd-58f12994271e" valueTypeId="d1c820ce-f3da-4bcf-8609-885afe901761"/>
+    <managerType typeId="4ea61645-b70f-484f-9bc1-8ccd01bf506e" valueTypeId="daf71687-fe75-404c-9ef6-f5fae3df85a7"/>
+  </producedTypes>
+  <name>ВнешняяОбработка</name>
+  <synonym>
+    <key>ru</key>
+    <value>Внешняя обработка</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <attributes uuid="1eea2458-e7f7-4728-bc3d-4c7db7492d7b">
+    <name>Реквизит</name>
+    <synonym>
+      <key>ru</key>
+      <value>Реквизит</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </attributes>
+</mdclass:DataProcessor>

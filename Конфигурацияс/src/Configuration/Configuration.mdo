@@ -38,6 +38,7 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <dataProcessors>DataProcessor.ВнешняяОбработка</dataProcessors>
   <dataProcessors>DataProcessor.Обработка</dataProcessors>
   <dataProcessors>DataProcessor.Обработка1</dataProcessors>
 </mdclass:Configuration>
